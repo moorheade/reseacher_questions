@@ -42,11 +42,11 @@
     + [] No
     + [] Is the repository compliant with privacy or security requirements?  
 
-10.  Have you selected a license or terms of use for your dataset (e.g., restricted access)?
+10.  Have you selected a license or terms of use for your dataset (restricted access)?
     + [] Yes
     + [] No
 
-11. Have you clearly defined attribution and citation expectations?
+12. Have you clearly defined attribution and citation expectations?
     + [] Yes
     + [] No 
      
