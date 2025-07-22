@@ -1,4 +1,4 @@
-#Preliminary questions for researchers to assess for data sharing 
+# Preliminary questions for researchers to assess for data sharing 
 
 1. Have you contacted your institution’s Intellectual Property office?
    + [] Yes
@@ -29,7 +29,7 @@
    + [] No
    + [] If yes, has it been de-identified to meet privacy standards?
   
-7.  Have you ensured that metadata and documentation are sufficient for reuse and understanding by others?
+7. Have you ensured that metadata and documentation are sufficient for reuse and understanding by others?
    + [] Yes
    + [] No
 
@@ -42,7 +42,7 @@
     + [] No
     + [] Is the repository compliant with privacy or security requirements?  
 
-10.  Have you selected a license or terms of use for your dataset (restricted access)?
+10. Have you selected a license or terms of use for your dataset (restricted access)?
     + [] Yes
     + [] No
 
